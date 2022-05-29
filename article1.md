@@ -2,10 +2,9 @@
 title: Test Article
 subtitle: Subtitle Of Test Article
 slug: test-article-path
-tags: react, General Programming
+tags: javascript, programming
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1653808454814/o1njHTdqy.png
-domain: https://atech.guide/
-ignorePost: false
+domain: https://atech.guide/s
 ---
 
 Enter article body here
