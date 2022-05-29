@@ -4,7 +4,7 @@ subtitle: Subtitle Of Test Article
 slug: test-article-path
 tags: javascript, programming
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1653808454814/o1njHTdqy.png
-domain: https://atech.guide/s
+domain: atech.guide
 ---
 
 Enter article body here
