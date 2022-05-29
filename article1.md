@@ -12,6 +12,8 @@ cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1653808454814/o1njHTd
 
 domain: atech.guide
 
+ignorePost: true
+
 ---
 
 # Heading 1
